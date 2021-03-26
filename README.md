@@ -4,3 +4,4 @@
 
 ## Workflow
 
+![workflow](https://github.com/Abhinav-Telukunta/Openslide_Reader/blob/main/workflow.PNG)
