@@ -5,3 +5,9 @@
 ## Workflow
 
 ![workflow](https://github.com/Abhinav-Telukunta/Openslide_Reader/blob/main/workflow.PNG)
+
+## Setup
+
+* Install libvips as specified in libvips.docx file
+* Take whole slide images from GDC portal as mentioned in WSI.docx file or any other website
+* Run the Final_OpenSlider.ipynb file and change the file paths and directories according to your environment
